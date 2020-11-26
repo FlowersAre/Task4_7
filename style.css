@@ -1,0 +1,20 @@
+body {
+    width: 100%;
+    max-width: 300px;
+}
+
+div {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 20px;
+}
+
+div:hover {
+    cursor: crosshair;
+    background-color: #b53f1d;
+}
+
+.posledni {
+    border-bottom: 0px;
+}
